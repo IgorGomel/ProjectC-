@@ -1,0 +1,5 @@
+D:\C#\INTITA\ProjAbstrClass\ConAppAbstrClass\ConAppAbstrClass\bin\Debug\ConAppAbstrClass.exe
+D:\C#\INTITA\ProjAbstrClass\ConAppAbstrClass\ConAppAbstrClass\bin\Debug\ConAppAbstrClass.pdb
+D:\C#\INTITA\ProjAbstrClass\ConAppAbstrClass\ConAppAbstrClass\obj\x86\Debug\ConAppAbstrClass.exe
+D:\C#\INTITA\ProjAbstrClass\ConAppAbstrClass\ConAppAbstrClass\obj\x86\Debug\ConAppAbstrClass.pdb
+D:\C#\INTITA\ProjAbstrClass\ConAppAbstrClass\ConAppAbstrClass\obj\x86\Debug\ResolveAssemblyReference.cache
